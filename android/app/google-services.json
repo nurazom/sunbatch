@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296612227022",
+    "project_id": "sunbatch-d8e0e",
+    "storage_bucket": "sunbatch-d8e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296612227022:android:6dfcdf10df31b747faad9f",
+        "android_client_info": {
+          "package_name": "com.example.sunbatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296612227022-mkukn89i3ntabbjcrk1e04nnbpposro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvXrIrd6y47Rz88jCgu3xgg2V8lYe0V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296612227022-mkukn89i3ntabbjcrk1e04nnbpposro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
